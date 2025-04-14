@@ -1,3 +1,4 @@
+![logo](logo.png)
 # Partyking technical assessment!
 ## Why are you doing this?
 
