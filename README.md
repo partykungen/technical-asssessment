@@ -16,9 +16,9 @@ https://dog.ceo/dog-api/
 4. The application must be able to persist some information locally - either through a database or simply in the client itself
 
 ## The technical
-You may use whatever code language you want for this assignment.
-Once done, please upload the code to your own Git repo and send us a public link.
-The repo must include a README-file that explains to us how to run the project.
+- You may use whatever code language you want for this assignment.
+- Once done, please upload the code to your own Git repo and send us a public link.
+- The repo must include a README-file that explains to us how to run the project.
 
 ### Good luck, fighter of boredom!
 
