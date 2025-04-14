@@ -12,7 +12,7 @@ https://pokeapi.co/
 https://dog.ceo/dog-api/
 2. The application must have some kind of interface
 3. The interface must be designed with the implementation of TailwindCSS https://tailwindcss.com/
-4. The application must be able to persist some information locally - either through a database or simple in the client itself
+4. The application must be able to persist some information locally - either through a database or simply in the client itself
 
 ## The technical
 You may use whatever code language you want for this assignment.
