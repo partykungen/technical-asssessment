@@ -9,7 +9,7 @@ We want to see your skills in writing code. By doing this assessment you will pr
 Create a web application which does this:
 
 1. The application must integrate with one of the following APIs:
-https://pokeapi.co/
+https://pokeapi.co/ 
 https://dog.ceo/dog-api/
 2. The application must have some kind of interface
 3. The interface must be designed with the implementation of TailwindCSS https://tailwindcss.com/
@@ -18,6 +18,7 @@ https://dog.ceo/dog-api/
 ## The technical
 You may use whatever code language you want for this assignment.
 Once done, please upload the code to your own Git repo and send us a public link.
+The repo must include a README-file that explains to us how to run the project.
 
 ### Good luck, fighter of boredom!
 
